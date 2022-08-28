@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Blog's App
 
 Simple React Blog's project.
 
