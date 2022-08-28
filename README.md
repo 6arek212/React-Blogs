@@ -8,6 +8,9 @@ Simple React Blog's project.
 
 </br>
 
+![](imgs/react-blog-detail.png)
+</br>
+
 # How TO RUN
 
 In the project directory, you can run:
